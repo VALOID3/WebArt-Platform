@@ -13,3 +13,7 @@ Una plataforma en línea donde artistas pueden compartir, descubrir y publicar a
 .
 
 Las carpetas de Fron y Back end estan separadas, y se tiene uan carpeta con los querys necesarios para la base de datos.
+
+
+###
+![interfaz de Inicio de secion y registro](./screenshots/)
