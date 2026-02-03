@@ -14,9 +14,15 @@ Una plataforma en línea donde artistas pueden compartir, descubrir y publicar a
 
 Las carpetas de Fron y Back end estan separadas, y se tiene uan carpeta con los querys necesarios para la base de datos.
 
+Galeria de Web Art
 
 ### Pantallas para el Resgistro/Login
 ![interfaz de Inicio de secion y registro](./screenshots/Login.png)
 ![interfaz de Inicio de secion y registro](./screenshots/Login2.png)
+
+## Pantallas Para el manejo de la publicaciones
+![Pantalla del inicio de las Publicaciones ](./screenshots/Hone.png)
+![Pantalla de muestra para Publicaciones](./screenshots/Publicaciones.png)
+
 
 
