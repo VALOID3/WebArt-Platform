@@ -19,10 +19,25 @@ Galeria de Web Art
 ### Pantallas para el Resgistro/Login
 ![interfaz de Inicio de secion y registro](./screenshots/Login.png)
 ![interfaz de Inicio de secion y registro](./screenshots/Login2.png)
+![interfaz de Inicio de secion y registro](./screenshots/Register.png)
+![interfaz de Inicio de secion y registro](./screenshots/Register2.png)
 
 ## Pantallas Para el manejo de la publicaciones
-![Pantalla del inicio de las Publicaciones ](./screenshots/Hone.png)
+![Pantalla del inicio de las Publicaciones ](./screenshots/Home.png)
 ![Pantalla de muestra para Publicaciones](./screenshots/Publicaciones.png)
+![crea una Publicacion](./screenshots/CrearPublic.png)
+
+## Manejo de Perfil
+![Puedes editar el perfil](./screenshots/EdithPerfil.png)
+![Interfaz de la pagina Perfil](./screenshots/Perfil.png)
+
+## Estadisticas de las interacciones de los post
+![Estadisticas](./screenshots/estadisticas.png)
+
+
+
+
+
 
 
 
